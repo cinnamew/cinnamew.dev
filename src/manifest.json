@@ -102,6 +102,23 @@
               "m": true
             }
           }
+        },
+        {
+          "alias": [
+            "preload/tofupfptransparent.png",
+            "tofupfptransparent.png"
+          ],
+          "src": [
+            "preload/tofupfptransparent@0.5x.webp",
+            "preload/tofupfptransparent@0.5x.png",
+            "preload/tofupfptransparent.webp",
+            "preload/tofupfptransparent.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
         }
       ]
     }
